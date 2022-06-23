@@ -62,7 +62,7 @@ def process_img(img):
     print(height)
 
     print(new_height)
-    tick_label = ['no_dir', 'mild', 'moderate', 'sever', 'proliferative']
+    tick_label = ['No DR', 'Mild', 'Moderate', 'Sever', 'Proliferative']
 
     # plotting a bar chart
     plt.bar(left, new_height, tick_label=tick_label,

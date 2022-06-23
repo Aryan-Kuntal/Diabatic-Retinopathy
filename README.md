@@ -1,4 +1,4 @@
-Name :Final Year Project 
+Name :Final Year Project \n
 Topic : Diabatic Retinopathy
 
 Instructions to be followed
